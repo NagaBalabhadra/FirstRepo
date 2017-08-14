@@ -19,5 +19,7 @@ public class JenkinsDemo {
 		System.out.println(driver.getTitle());
 		driver.close();
 		
+		System.out.println("checking commit and push");
+		
   }
 }
